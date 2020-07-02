@@ -1,1 +1,1 @@
-# Useful pandas-commands for data analysis tasks
+Useful pandas-commands for data analysis tasks
